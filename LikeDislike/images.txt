@@ -1,0 +1,3 @@
+1,32,https://p0.pikist.com/photos/801/910/food-meal-fired-chiken-lunch-denner.jpg
+2,16,https://girlscangrill.com/wp-content/uploads/2019/07/nashville-hot-chicken-platter.jpg
+3,-8,https://assets.epicurious.com/photos/54ac384919925f464b3a8e5e/6:4/w_274%2Ch_169/51236260_nashville-style-hot-chicken_1x1.jpg
