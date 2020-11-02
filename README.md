@@ -1,6 +1,6 @@
 # cdlx-prj
 
-Small projects for learning webpage backend basics:
+Small projects in PHP for learning webpage backend basics:
 
 + RPS-LS contains advanced web version of rock-paper-scissors. you can add new game elements by creating new class and adding it to playTem array.
 
